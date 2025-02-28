@@ -5,7 +5,7 @@
 # *   *
 # *****
 def hollow_square(n):
-    return ""
+    return ""v
 
 # 1
 # 12
